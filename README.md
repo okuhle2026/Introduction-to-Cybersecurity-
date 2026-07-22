@@ -10,9 +10,9 @@ Good cybersecurity protects your info, keeps companies working, and stops scams.
 
 Three examples
 
--When we use banking apps,Encryption and 2FA stop hackers from accessing your account or stealing money.
--On WhatsApp and email,encryption keeps our messages private. 
--WiFi passwords on our phones to stop strangers from getting in our networks.
+When we use banking apps,Encryption and 2FA stop hackers from accessing your account or stealing money.
+On WhatsApp and email,encryption keeps our messages private. 
+WiFi passwords on our phones to stop strangers from getting in our networks.
 
 Career Path I'm  Interested In
 
